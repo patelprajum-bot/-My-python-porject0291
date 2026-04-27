@@ -1,2 +1,1 @@
-# -My-python-porject0291
-   मुझे प्रोग्रामिंग के अनुसार प्रोजेक्ट बनाना है और नया प्रोजेक्ट बनाना है, आनंद की अनुभूति हो रही है और नई फाइल अपलोड करना है और मेन प्रोजेक्ट बनाना मुझे बहुत अच्छा लग है
+# -My-python-porject029   I really enjoy programming in Python and creating new projects.
